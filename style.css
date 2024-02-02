@@ -1,0 +1,116 @@
+body {
+  font-family: "Lato", sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  background-image: linear-gradient(to right, #7c0a0a, #dc1111);
+  color: white;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+
+  text-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+/* search  */
+.search {
+  position: relative;
+}
+.searchInput {
+  font-family: inherit;
+  background-color: white;
+  border: none;
+  font-size: 16px;
+  padding: 12px;
+  height: 12px;
+  width: 17px;
+  border-radius: 10px;
+  transition: all 0.4s ease-in-out;
+}
+.searchInput,
+.searchBtn:focus {
+  outline: none;
+}
+
+.searchBtn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: white;
+  border: none;
+  color: rgb(50, 2, 2);
+  font-size: 29px;
+  border-radius: 10px;
+  transition: all 0.4s ease-in-out;
+  cursor: pointer;
+}
+
+.search.active .searchInput {
+  width: 200px;
+  background-color: white;
+}
+
+.search.active .searchBtn {
+  transform: translateX(190px);
+  background-color: white;
+}
+
+.mar-container {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 90%;
+}
+
+.marvel {
+  width: 250px;
+  height: 360px;
+  margin: 10px;
+  padding: 20px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+    rgba(0, 0, 0, 0.22) 0px 10px 10px;
+  border-radius: 10px;
+}
+
+.image-container {
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 75% 30% 60% 40% / 50% 60% 40% 60%;
+}
+.image-container img {
+  width: 200px;
+  opacity: 0.8;
+  transition: all 0.3s ease-in-out;
+}
+.marvel:hover .image-container img {
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+.mar-info {
+  margin-top: 20px;
+}
+
+.mar-power {
+  text-shadow: 0 0 4px rgba(2, 2, 4, 0.9);
+  margin: 15px;
+}
+.mar-name {
+  letter-spacing: 2px;
+  margin: 15px 0 10px;
+  text-transform: capitalize;
+}
+
+.small {
+  padding: 0 5px;
+}
+
+.mar-type {
+  margin: 10px 0;
+}

@@ -1,0 +1,274 @@
+{
+  "marvel": [
+    {
+      "id": 1,
+      "name": "Ant-Man",
+      "power": "Shrinking technology, communication with ants",
+      "ability": "Size Manipulation",
+      "image": "./images/1.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 80
+    },
+    {
+      "id": 2,
+      "name": "Black Panther",
+      "power": "Superhuman strength, agility, enhanced senses",
+      "ability": "Enhanced Physical Abilities",
+      "image": "./images/2.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 90
+    },
+    {
+      "id": 3,
+      "name": "Black Widow",
+      "power": "Master martial artist, expert marksman",
+      "ability": "Martial Arts and Marksmanship",
+      "image": "./images/3.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 75
+    },
+    {
+      "id": 4,
+      "name": "Captain America",
+      "power": "Superhuman strength, agility, vibranium shield",
+      "ability": "Enhanced Physical Abilities",
+      "image": "./images/4.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 85
+    },
+    {
+      "id": 5,
+      "name": "Captain Marvel",
+      "power": "Superhuman strength, flight, energy projection",
+      "ability": "Energy Manipulation",
+      "image": "./images/5.png",
+      "element": "Unknown Source",
+      "power_level": 95
+    },
+    {
+      "id": 6,
+      "name": "Deadpool",
+      "power": "Regenerative healing factor, expert swordsman",
+      "ability": "Regeneration and Weaponry",
+      "image": "./images/6.png",
+      "element": "Unknown Source",
+      "power_level": 80
+    },
+    {
+      "id": 7,
+      "name": "Doctor Strange",
+      "power": "Mystical arts, time manipulation",
+      "ability": "Mystical Arts",
+      "image": "./images/7.png",
+      "element": "Mystical Supernatural Powers",
+      "power_level": 100
+    },
+    {
+      "id": 8,
+      "name": "Drax the Destroyer",
+      "power": "Superhuman strength, durability",
+      "ability": "Enhanced Physical Abilities",
+      "image": "./images/8.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 85
+    },
+    {
+      "id": 9,
+      "name": "Falcon",
+      "power": "Flight, expert hand-to-hand combatant",
+      "ability": "Flight and Combat",
+      "image": "./images/9.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 75
+    },
+    {
+      "id": 10,
+      "name": "The Flash",
+      "power": "Superhuman speed, time manipulation",
+      "ability": "Speed and Time Manipulation",
+      "image": "./images/10.png",
+      "element": "Unknown Source",
+      "power_level": 90
+    },
+    {
+      "id": 11,
+      "name": "Gamora",
+      "power": "Master assassin, enhanced strength",
+      "ability": "Assassination and Strength",
+      "image": "./images/11.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 85
+    },
+    {
+      "id": 12,
+      "name": "Ghost Rider",
+      "power": "Hellfire manipulation, supernatural senses",
+      "ability": "Hellfire Manipulation",
+      "image": "./images/12.png",
+      "element": "Mystical Supernatural Powers",
+      "power_level": 95
+    },
+    {
+      "id": 13,
+      "name": "Groot",
+      "power": "Floral regeneration, superhuman strength",
+      "ability": "Plant Manipulation",
+      "image": "./images/13.png",
+      "element": "Unknown Source",
+      "power_level": 80
+    },
+    {
+      "id": 14,
+      "name": "Hulk",
+      "power": "Superhuman strength, durability",
+      "ability": "Enhanced Physical Abilities",
+      "image": "./images/14.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 90
+    },
+    {
+      "id": 15,
+      "name": "Iron Fist",
+      "power": "Martial arts mastery, chi manipulation",
+      "ability": "Martial Arts and Chi Manipulation",
+      "image": "./images/15.png",
+      "element": "Mystical Supernatural Powers",
+      "power_level": 85
+    },
+    {
+      "id": 16,
+      "name": "Iron Man",
+      "power": "Powered armor, genius-level intellect",
+      "ability": "Technology and Intelligence",
+      "image": "./images/16.png",
+      "element": "Unknown Source",
+      "power_level": 95
+    },
+    {
+      "id": 17,
+      "name": "Kraglin",
+      "power": "Skilled fighter, expert marksman",
+      "ability": "Combat and Marksmanship",
+      "image": "./images/17.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 80
+    },
+    {
+      "id": 18,
+      "name": "Loki",
+      "power": "Shape-shifting, sorcery",
+      "ability": "Shape-shifting and Sorcery",
+      "image": "./images/18.png",
+      "element": "Mystical Supernatural Powers",
+      "power_level": 90
+    },
+    {
+      "id": 19,
+      "name": "Magneto",
+      "power": "Magnetism manipulation",
+      "ability": "Magnetism Manipulation",
+      "image": "./images/19.png",
+      "element": "Unknown Source",
+      "power_level": 85
+    },
+    {
+      "id": 20,
+      "name": "Mantis",
+      "power": "Empathy, precognition",
+      "ability": "Empathy and Precognition",
+      "image": "./images/20.png",
+      "element": "Mystical Supernatural Powers",
+      "power_level": 80
+    },
+    {
+      "id": 21,
+      "name": "Nebula",
+      "power": "Cybernetic enhancements, skilled fighter",
+      "ability": "Cybernetic Enhancements and Combat",
+      "image": "./images/21.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 75
+    },
+    {
+      "id": 22,
+      "name": "Rocket Raccoon",
+      "power": "Genius-level intellect, skilled marksman",
+      "ability": "Intelligence and Marksmanship",
+      "image": "./images/22.png",
+      "element": "Unknown Source",
+      "power_level": 80
+    },
+    {
+      "id": 23,
+      "name": "Scarlet Witch",
+      "power": "Reality manipulation, chaos magic",
+      "ability": "Reality Manipulation and Chaos Magic",
+      "image": "./images/23.png",
+      "element": "Mystical Supernatural Powers",
+      "power_level": 100
+    },
+    {
+      "id": 24,
+      "name": "Spider-Man",
+      "power": "Superhuman strength, agility, spider-sense",
+      "ability": "Enhanced Physical Abilities",
+      "image": "./images/24.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 85
+    },
+    {
+      "id": 25,
+      "name": "Star-Lord",
+      "power": "Strategic genius, advanced technology",
+      "ability": "Strategy and Technology",
+      "image": "./images/25.png",
+      "element": "Unknown Source",
+      "power_level": 90
+    },
+    {
+      "id": 26,
+      "name": "Thanos",
+      "power": "Superhuman strength, genius-level intellect",
+      "ability": "Enhanced Physical Abilities and Intelligence",
+      "image": "./images/26.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 98
+    },
+    {
+      "id": 27,
+      "name": "Thor",
+      "power": "Superhuman strength, control over lightning",
+      "ability": "Enhanced Physical Abilities and Lightning Control",
+      "image": "./images/27.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 95
+    },
+    {
+      "id": 28,
+      "name": "Vision",
+      "power": "Synthetic body, density manipulation",
+      "ability": "Synthetic Physiology and Density Manipulation",
+      "image": "./images/28.png",
+      "element": "Unknown Source",
+      "power_level": 92
+    },
+    {
+      "id": 29,
+      "name": "Winter Soldier",
+      "power": "Superhuman strength, expert marksman",
+      "ability": "Enhanced Physical Abilities and Marksmanship",
+      "image": "./images/29.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 88
+    },
+    {
+      "id": 30,
+      "name": "Hawkeye",
+      "power": "Expert marksman, master archer",
+      "ability": "Marksmanship and Archery",
+      "image": "./images/30.png",
+      "element": "Enhanced Physical Abilities",
+      "power_level": 82
+    }
+  ]
+}
